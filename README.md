@@ -1,3 +1,1 @@
 # CheatSheet
-
-#XSS Polygot
